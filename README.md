@@ -81,4 +81,3 @@ This is a sample PHP project demonstrating the use of PDO for database connectio
 ## Contact
 
 For any questions or issues, please contact [ndabosam084@gmail.com].
-```
